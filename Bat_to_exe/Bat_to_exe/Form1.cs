@@ -57,7 +57,6 @@ namespace Program
     }
 }
 ";
-            MessageBox.Show(code);
 
             string savePath = string.Empty;
             SaveFileDialog saveFile = new SaveFileDialog();
